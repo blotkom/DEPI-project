@@ -18,3 +18,6 @@ our project : electrical supplies company (engineering tech)
 
 🔹 **PDF File - Presentation - on GitHub:**  
 [View PDF](https://github.com/blotkom/DEPI-project/blob/main/project%20file.pdf)  
+
+🔹 **PDF File - Presentation - on google drive:**  
+[View PDF](https://drive.google.com/file/d/1e_q05vfcKB9Iv__KIzOGcgBhhTJabkyB/view?usp=sharing)  
