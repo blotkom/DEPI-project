@@ -1,4 +1,4 @@
-# Comprehensive Marketing Strategy  
+# Engineering Tech Marketing Strategy  
 
 This project is part of our **graduation project**, conducted under the **Digital Egypt Pioneers Initiative (DEPI) **.  
 
