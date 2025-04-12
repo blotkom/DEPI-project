@@ -14,10 +14,4 @@ our project : electrical supplies company (engineering tech)
 ## Important Links  
 
 🔹 **Project Presentation on Canva :**  
-[View on Canva](https://www.canva.com/design/DAGfX6cm1ko/WNsWW_5YxwfJZMR1GFPdYw/view?utm_content=DAGfX6cm1ko&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h20c369d011)  
-
-🔹 **PDF File - Presentation - on GitHub:**  
-[View PDF](https://github.com/blotkom/DEPI-project/blob/main/project%20file.pdf)  
-
-🔹 **PDF File - Presentation - on google drive:**  
-[View PDF](https://drive.google.com/file/d/1e_q05vfcKB9Iv__KIzOGcgBhhTJabkyB/view?usp=sharing)  
+[View on Canva]([https://www.canva.com/design/DAGfX6cm1ko/WNsWW_5YxwfJZMR1GFPdYw/view?utm_content=DAGfX6cm1ko&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h20c369d011](https://www.canva.com/design/DAGjxih-UHI/GYtNT2A1vtNoys33JD0EdQ/edit?utm_content=DAGjxih-UHI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))  
