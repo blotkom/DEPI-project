@@ -14,4 +14,4 @@ our project : electrical supplies company (engineering tech)
 ## Important Links  
 
 🔹 **Project Presentation on Canva :**  
-[View on Canva]([https://www.canva.com/design/DAGjxih-UHI/GYtNT2A1vtNoys33JD0EdQ/edit?utm_content=DAGjxih-UHI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])  
+[View on Canva]([https://www.canva.com/design/DAGjxih-UHI/GYtNT2A1vtNoys33JD0EdQ/edit?utm_content=DAGjxih-UHI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
